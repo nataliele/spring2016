@@ -3,4 +3,4 @@ layout: post
 author: nataliele
 ---
 
-Hellow world!
+Hello world!
